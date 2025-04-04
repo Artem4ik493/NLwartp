@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://meteorclient.com/icon.png" alt="meteor-client-logo" width="15%"/>
-</p>
 
 <h1 align="center">NorthLights.org</h1>
 <p align="center">Ресурс пак сервера NorthLights.org</p>
