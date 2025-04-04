@@ -7,4 +7,3 @@
     <br>
     <img src="https://img.shields.io/badge/code%20size-12%20mb-purple" alt="Resourse size"/>
 </div>
-### Копирование и распространение запрещено!
